@@ -17,7 +17,6 @@ Spark A1 is Chroma's intelligent blockchain development assistant that provides 
    - `ETHERSCAN_API_KEY`: Your Etherscan API key for contract verification
    - `PRIVATE_KEY`: Your wallet private key for deployments
    - `RPC_URL`: Your blockchain RPC endpoint
-   - `SPARK_API_KEY`: Your Spark A1 API key
 
 ## Project Structure
 
